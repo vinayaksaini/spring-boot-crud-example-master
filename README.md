@@ -1,1 +1,1 @@
-# spring-boot-crud-example
+# Simple Springboot CRUD App
